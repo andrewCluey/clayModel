@@ -1,0 +1,6 @@
+{
+    "type": "request",
+    "sourceCompartment": "compartmentA",
+    "destinationCompartment": "compartmentB",
+    "port": "443"
+}
